@@ -1,4 +1,7 @@
-Microsoft Sentinel Security Lab – Investigating Windows Security Events
+**Microsoft Sentinel Security Lab – Investigating Windows Security Events**
+
+![image](https://github.com/user-attachments/assets/b2080269-b911-4874-a3e8-9dfa5fc37663)
+
 
 📌 Description:
 In this lab, I deployed and configured Microsoft Sentinel, a cloud-native SIEM & SOAR solution, to detect and investigate security threats in a Windows environment. The lab involved deploying Sentinel, configuring data connectors, setting up analytics rules, simulating security events, and investigating incidents using threat intelligence tools.
