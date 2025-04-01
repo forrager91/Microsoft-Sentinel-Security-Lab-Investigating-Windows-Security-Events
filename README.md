@@ -1,3 +1,5 @@
+**LOOK AT FILES FOR COMPLETED PROJECT**
+
 **Microsoft Sentinel Security Lab – Investigating Windows Security Events**
 
 ![image](https://github.com/user-attachments/assets/b2080269-b911-4874-a3e8-9dfa5fc37663)
